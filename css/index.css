@@ -1,0 +1,10 @@
+.color{
+    color: red;
+}
+.img-box{
+    width: 450px;
+}
+.img-box img{
+    width: 100%;
+    height: 100%;
+}
